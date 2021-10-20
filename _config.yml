@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "پوررنگ آتشی"
+title                    : "صدرا دادخواه"
 title_separator          : "-"
 name                     : "Poorang" 
 description              : "Welcome to my web site."
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : sadra_d
 facebook:
-  username               : sauleh.eetemadi
+  username               : sadra.dadkhah
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
+  name             : "sadra dadkhah"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
   location         : "تهران"
