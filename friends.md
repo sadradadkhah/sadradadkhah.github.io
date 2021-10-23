@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+* [آتیلا](https://attilaroshani.github.io)
+* [سیدحسینی](https://seyedalihosseinibahri.github.io)
+* [پدرام](https://p3dr4m0098.github.io)
 
 
 

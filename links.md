@@ -4,13 +4,13 @@ author_profile: true
 permalink: /links/
 title: Links
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 10-23-2021
 comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Site to watch movies](https://rubixfa.top)
+* [Site to Download the book](https://ketabnak.com)
+* [site to download the Music](https://www.jenabmusic.com)
+* [My university](http://www.iust.ac.ir)
 
